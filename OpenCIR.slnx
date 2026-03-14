@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OpenCIR.API/OpenCIR.API.csproj" />
+    <Project Path="src/OpenCIR.Core/OpenCIR.Core.csproj" />
+    <Project Path="src/OpenCIR.Infrastructure/OpenCIR.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Modules/">
+    <Project Path="src/Modules/OpenCIR.Accounts/OpenCIR.Accounts.csproj" />
+    <Project Path="src/Modules/OpenCIR.Applications/OpenCIR.Applications.csproj" />
+    <Project Path="src/Modules/OpenCIR.Registry/OpenCIR.Registry.csproj" />
+  </Folder>
+</Solution>
